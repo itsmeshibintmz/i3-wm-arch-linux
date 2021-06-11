@@ -22,8 +22,8 @@ Note
 2. Copy all the files from this repository in your ~/ (home directory)
 Note - Make backup or remove your old config files so new config can work smooothly
 
-cd i3-dotfiles 
-cp -r * ~/
+- cd i3-dotfiles 
+- cp -r * ~/
 
 4. Reload i3
 
