@@ -10,12 +10,14 @@ Screenshots
 
 Installation
 1. Install tools (if you dont have)
+- sudo pacman -S neofetch thunar zsh rofi 
+- yay -S polybar 
+- clone oh-my-zsh github project
 
-sudo pacman -S neofetch thunar zsh rofi 
-yay -S polybar 
-
-Note - JetBrains Nerd Font should be installed
+Note 
+- JetBrains Nerd Font should be installed
 - Font Awesome 5 Free, Free Solid, Brands
+- siji-git fonts
 
 2. Copy all the files from this repository in your ~/ (home directory)
 Note - Make backup or remove your old config files so new config can work smooothly
