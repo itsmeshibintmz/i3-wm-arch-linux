@@ -12,6 +12,8 @@ Installation
 - sudo pacman -S neofetch thunar zsh rofi 
 - yay -S polybar 
 - clone oh-my-zsh github project
+- gruvbox-gtk-theme
+- gruvbox-gtk-fonts
 
 Note 
 - JetBrains Nerd Font should be installed
