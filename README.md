@@ -27,8 +27,8 @@ cp -r * ~/
 
 System Specifications
 ----------------------
-Model : Acer Nitro 5 AN515-43
-AMD Ryzen 5 3550H with Radeon Vega Graphics
-16 GB RAM
-Graphics : AMD Vega Graphics 8
-Dedicated : AMD Radeon RX 560X
+- Model : Acer Nitro 5 AN515-43
+- AMD Ryzen 5 3550H with Radeon Vega Graphics
+- 16 GB RAM
+- Graphics : AMD Vega Graphics 8
+- Dedicated : AMD Radeon RX 560X
