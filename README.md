@@ -1,6 +1,6 @@
-# My i3 Dotfiles
------------------
-This repo includes dotfiles for my i3 setup
+# i3 dot files
+
+This repo includes dotfiles for my i3-wm arch linux setup
 
 Screenshots
 ------------
